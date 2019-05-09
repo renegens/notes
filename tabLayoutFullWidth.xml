@@ -1,0 +1,28 @@
+ <android.support.design.widget.TabLayout
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/white"
+        app:tabIndicatorFullWidth="false"
+        app:tabIndicatorHeight="1dp"
+        app:tabMode="fixed"
+        app:tabPaddingEnd="25dp"
+        app:tabPaddingStart="25dp">
+
+        <android.support.design.widget.TabItem
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:icon="@drawable/icon_add_sticker" />
+
+        <android.support.design.widget.TabItem
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:icon="@drawable/icon_snippet" />
+
+        <android.support.design.widget.TabItem
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:icon="@drawable/icon_sticker" />
+            
+    </android.support.design.widget.TabLayout>
