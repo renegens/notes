@@ -20,3 +20,5 @@
 [https://github.com/android/animation](https://github.com/android/animation)
 ### Playing with Material Design Transitions
 [https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
+### Feature flags - A successful architecture
+[https://jeroenmols.com/blog/2019/09/12/featureflagsarchitecture/](https://jeroenmols.com/blog/2019/09/12/featureflagsarchitecture/)

@@ -1,0 +1,2 @@
+### Converting your Android Gradle scripts to Kotlin
+[https://proandroiddev.com/converting-your-android-gradle-scripts-to-kotlin-1172f1069880](https://proandroiddev.com/converting-your-android-gradle-scripts-to-kotlin-1172f1069880)
