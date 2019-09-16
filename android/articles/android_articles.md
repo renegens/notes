@@ -22,3 +22,5 @@
 [https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
 ### Feature flags - A successful architecture
 [https://jeroenmols.com/blog/2019/09/12/featureflagsarchitecture/](https://jeroenmols.com/blog/2019/09/12/featureflagsarchitecture/)
+### Android: Anchoring Views to Bottom Sheet
+[https://medium.com/android-bits/android-anchoring-views-to-bottom-sheet-9c9069caf7d4](https://medium.com/android-bits/android-anchoring-views-to-bottom-sheet-9c9069caf7d4)
