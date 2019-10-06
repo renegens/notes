@@ -1,5 +1,3 @@
-### Shared element transition with fab
-[https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
 ### Back Pressed in fragments
 [https://stackoverflow.com/questions/5448653/how-to-implement-onbackpressed-in-fragments](https://stackoverflow.com/questions/5448653/how-to-implement-onbackpressed-in-fragments)
 ### Encryption
@@ -12,15 +10,9 @@
 [https://proandroiddev.com/a-guide-to-recyclerview-selection-3ed9f2381504](https://proandroiddev.com/a-guide-to-recyclerview-selection-3ed9f2381504)
 ### Update progress bar inside recycler view
 [https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
-### Animate bottom sheet as a hint
-[https://android.jlelse.eu/android-onboarding-hop-animation-1d1651b87e2c](https://android.jlelse.eu/android-onboarding-hop-animation-1d1651b87e2c)
-### Animate toggle icons
-[https://android.jlelse.eu/using-statelistanimators-to-create-instagram-like-animation-db2676c9391](https://android.jlelse.eu/using-statelistanimators-to-create-instagram-like-animation-db2676c9391)
-### Animations Examples
-[https://github.com/android/animation](https://github.com/android/animation)
-### Playing with Material Design Transitions
-[https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
 ### Feature flags - A successful architecture
 [https://jeroenmols.com/blog/2019/09/12/featureflagsarchitecture/](https://jeroenmols.com/blog/2019/09/12/featureflagsarchitecture/)
 ### Android: Anchoring Views to Bottom Sheet
 [https://medium.com/android-bits/android-anchoring-views-to-bottom-sheet-9c9069caf7d4](https://medium.com/android-bits/android-anchoring-views-to-bottom-sheet-9c9069caf7d4)
+### In app update UI
+[https://bytes.swiggy.com/how-swiggy-uses-in-app-update-api-for-better-app-adoption-dc04d2f62e0e](https://bytes.swiggy.com/how-swiggy-uses-in-app-update-api-for-better-app-adoption-dc04d2f62e0e)
