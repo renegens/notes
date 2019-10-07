@@ -16,3 +16,5 @@
 [https://medium.com/android-bits/android-anchoring-views-to-bottom-sheet-9c9069caf7d4](https://medium.com/android-bits/android-anchoring-views-to-bottom-sheet-9c9069caf7d4)
 ### In app update UI
 [https://bytes.swiggy.com/how-swiggy-uses-in-app-update-api-for-better-app-adoption-dc04d2f62e0e](https://bytes.swiggy.com/how-swiggy-uses-in-app-update-api-for-better-app-adoption-dc04d2f62e0e)
+### Optimize your build speed
+[https://developer.android.com/studio/build/optimize-your-build.html](https://developer.android.com/studio/build/optimize-your-build.html)

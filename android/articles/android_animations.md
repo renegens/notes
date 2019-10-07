@@ -12,3 +12,5 @@
 [https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
 ### Playing with Material Design Transitions
 [https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
+### AnimatedIcons: Strikethru
+[https://blog.stylingandroid.com/animatedicons-strikethru/](https://blog.stylingandroid.com/animatedicons-strikethru/)
