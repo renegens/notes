@@ -8,6 +8,17 @@ onStackChangeListener?.run {
   println("pushing, calling " + toString())
 }
 ```
+
+### Match a list based on the items in another list and tranform it. Replace the hashcode with the unique identifier
+```
+fun <T, E> List<T>.matchTo(list: List<E>): List<E> {
+    return this.map { item ->
+        list.single { listItem ->
+            item.hashCode() == listItem.hashCode()
+        }
+    }.distinct()
+}
+```
 ### varargs
 [https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1?fbclid=IwAR3X04cokkZQoufzt-M16GC2KnIrTHS3vrgl82fCv2bXQVOGtmdG26fTZIg](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1?fbclid=IwAR3X04cokkZQoufzt-M16GC2KnIrTHS3vrgl82fCv2bXQVOGtmdG26fTZIg)
 ### Coroutines Explained
