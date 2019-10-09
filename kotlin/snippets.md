@@ -11,12 +11,8 @@ onStackChangeListener?.run {
 
 ### Match a list based on the items in another list and tranform it. Replace the hashcode with the unique identifier
 ```
-fun <T, E> List<T>.matchTo(list: List<E>): List<E> {
-    return this.map { item ->
-        list.single { listItem ->
-            item.hashCode() == listItem.hashCode()
-        }
-    }.distinct()
+fun <T, E> List<T>.matchTo(list: List<E>): List<E> =
+    this.flatMap { item -> list.filter { listItem -> (item.hashCode() == listItem.hashCode()) } }
 }
 ```
 ### Replace an item in a list
