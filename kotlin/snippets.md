@@ -19,6 +19,10 @@ fun <T, E> List<T>.matchTo(list: List<E>): List<E> {
     }.distinct()
 }
 ```
+### Replace an item in a list
+```
+fun <E> Iterable<E>.replace(old: E, new: E) = map { if (it == old) new else it }
+```
 ### varargs
 [https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1?fbclid=IwAR3X04cokkZQoufzt-M16GC2KnIrTHS3vrgl82fCv2bXQVOGtmdG26fTZIg](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1?fbclid=IwAR3X04cokkZQoufzt-M16GC2KnIrTHS3vrgl82fCv2bXQVOGtmdG26fTZIg)
 ### Coroutines Explained
