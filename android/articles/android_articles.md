@@ -18,3 +18,5 @@
 [https://bytes.swiggy.com/how-swiggy-uses-in-app-update-api-for-better-app-adoption-dc04d2f62e0e](https://bytes.swiggy.com/how-swiggy-uses-in-app-update-api-for-better-app-adoption-dc04d2f62e0e)
 ### Optimize your build speed
 [https://developer.android.com/studio/build/optimize-your-build.html](https://developer.android.com/studio/build/optimize-your-build.html)
+### Continuous testing
+[https://android-developers.googleblog.com/2019/10/continuous-testing-with-new-android.html](https://android-developers.googleblog.com/2019/10/continuous-testing-with-new-android.html)
