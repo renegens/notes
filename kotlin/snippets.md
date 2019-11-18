@@ -26,3 +26,7 @@ fun <E> Iterable<E>.replace(old: E, new: E) = map { if (it == old) new else it }
 
 ### Wrapping callbacks with coroutines
 [https://jacquessmuts.github.io/post/callback_hell/](https://jacquessmuts.github.io/post/callback_hell/)
+
+
+### Property Delagates for shared logic
+[https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d)
