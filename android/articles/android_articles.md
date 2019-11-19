@@ -20,3 +20,9 @@
 [https://developer.android.com/studio/build/optimize-your-build.html](https://developer.android.com/studio/build/optimize-your-build.html)
 ### Continuous testing
 [https://android-developers.googleblog.com/2019/10/continuous-testing-with-new-android.html](https://android-developers.googleblog.com/2019/10/continuous-testing-with-new-android.html)
+
+### Implementing Video playback in a scrolled list
+[https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429](https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429)
+
+###Organize Android resource files for directories
+[https://proandroiddev.com/organising-android-resources-with-gradle-and-kotlin-26df1413d7ff](https://proandroiddev.com/organising-android-resources-with-gradle-and-kotlin-26df1413d7ff)

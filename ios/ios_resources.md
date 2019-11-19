@@ -9,3 +9,6 @@
 
 ### Swift UI
 [https://www.bigmountainstudio.com/swiftui-views-book](https://www.bigmountainstudio.com/swiftui-views-book)
+
+### Rxswift-rxalamofire-objectmapper
+[https://medium.com/@relative/how-to-use-rxswift-rxalamofire-objectmapper-4402e0f8c88d](https://medium.com/@relative/how-to-use-rxswift-rxalamofire-objectmapper-4402e0f8c88d)
