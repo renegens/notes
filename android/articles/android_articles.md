@@ -26,3 +26,6 @@
 
 ###Organize Android resource files for directories
 [https://proandroiddev.com/organising-android-resources-with-gradle-and-kotlin-26df1413d7ff](https://proandroiddev.com/organising-android-resources-with-gradle-and-kotlin-26df1413d7ff)
+
+###Understand Android Activity's launchMode
+[https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
