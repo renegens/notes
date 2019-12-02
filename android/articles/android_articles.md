@@ -29,3 +29,9 @@
 
 ###Understand Android Activity's launchMode
 [https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
+
+###Contrasting text and icons over background
+[https://jorgecastillo.dev/contrasting-text-and-icons-over-background](https://jorgecastillo.dev/contrasting-text-and-icons-over-background)
+
+###How to change your Project Name & Package Name in Android Studio
+[https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/](https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/)
