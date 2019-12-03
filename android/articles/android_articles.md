@@ -35,3 +35,7 @@
 
 ###How to change your Project Name & Package Name in Android Studio
 [https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/](https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/)
+
+###Sent Firebase push notifications with postman
+[https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3](https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3)
+
