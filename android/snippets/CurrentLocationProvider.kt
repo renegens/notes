@@ -1,4 +1,4 @@
-package de.umlaut.thccorehelper.library.location
+package com.renegens.location
 
 import android.annotation.SuppressLint
 import android.content.Context
