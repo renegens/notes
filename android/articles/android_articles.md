@@ -32,3 +32,7 @@
 [https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/](https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/)
 ### Sent Firebase push notifications with postman
 [https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3](https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3)
+### Instant Search with Kotlin Coroutines
+[https://www.hellsoft.se/instant-search-with-kotlin-coroutines/](https://www.hellsoft.se/instant-search-with-kotlin-coroutines/)
+### How to Service on Android — part 1
+[https://www.hellsoft.se/how-to-service-on-android---part-1/](https://www.hellsoft.se/how-to-service-on-android---part-1/)
