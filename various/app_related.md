@@ -1,0 +1,2 @@
+### 13 Free & Easy Ways to Promote Your App & Get More Downloads Now
+[https://appfigures.com/resources/marketing/13-ways-to-promote-your-mobile-app#get-your-app-featured-by-apple-google](https://appfigures.com/resources/marketing/13-ways-to-promote-your-mobile-app#get-your-app-featured-by-apple-google)
