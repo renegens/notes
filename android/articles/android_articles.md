@@ -38,3 +38,11 @@
 [https://www.hellsoft.se/how-to-service-on-android---part-1/](https://www.hellsoft.se/how-to-service-on-android---part-1/)
 ### A Story about FFmpeg on Android
 [https://proandroiddev.com/a-story-about-ffmpeg-on-android-part-iii-extension-71025444896e](https://proandroiddev.com/a-story-about-ffmpeg-on-android-part-iii-extension-71025444896e)
+### Say no to BaseActivity and BaseFragment
+[https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
+### Showing the Android Keyboard Reliably
+[https://developer.squareup.com/blog/showing-the-android-keyboard-reliably/](https://developer.squareup.com/blog/showing-the-android-keyboard-reliably/)
+### Data Privacy for Android
+[https://www.raywenderlich.com/6901838-data-privacy-for-android](https://www.raywenderlich.com/6901838-data-privacy-for-android)
+### Context free Android navigation
+[https://proandroiddev.com/context-free-android-navigation-c83c677e7798](https://proandroiddev.com/context-free-android-navigation-c83c677e7798)
