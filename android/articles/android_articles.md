@@ -46,3 +46,5 @@
 [https://www.raywenderlich.com/6901838-data-privacy-for-android](https://www.raywenderlich.com/6901838-data-privacy-for-android)
 ### Context free Android navigation
 [https://proandroiddev.com/context-free-android-navigation-c83c677e7798](https://proandroiddev.com/context-free-android-navigation-c83c677e7798)
+### Android: Error handling in Clean Architecture
+[https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
