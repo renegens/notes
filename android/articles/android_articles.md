@@ -48,3 +48,5 @@
 [https://proandroiddev.com/context-free-android-navigation-c83c677e7798](https://proandroiddev.com/context-free-android-navigation-c83c677e7798)
 ### Android: Error handling in Clean Architecture
 [https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
+### Connectivity State on Android 10 and Above
+[https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
