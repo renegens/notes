@@ -1,0 +1,18 @@
+Cool tools to use for making your hackathon more fun:
+https://miro.com/: team collaboration, charts and planning
+https://airtable.com/: collect data via a form view and manipulate it via table view
+https://bubble.io/: build full apps without coding (database, view, logic)
+https://www.glideapps.com/: build mobile web apps in minutes
+https://firebase.google.com/: powerful and easy to setup backend with api and websocket support
+https://backendless.com/: powerful and easy to setup backend with api and websocket support
+https://www.invisionapp.com/studio: easy to use design tool with click-dummy features
+https://workstreams.ai/: results-oriented, data-driven task management solution & kanban board app integrated to Slack
+https://appsheet.com/: create apps based on a google sheet as its database (has covid offering)
+https://webflow.com/: very easy and powerful tool to create websites (with cms database)
+https://www.splunk.com/: collect, analyze and act on data points
+https://rapyd.ai/: ai-as-a-service platform for rapid AI prototyping
+https://www.typeform.com/: super easy forms to collect and evaluate data - chat to #typeform if you need help
+https://stackedit.io/app: markdown editor (browser based)
+https://settlemint.com/: from blockchain concept to deployed solution in 1 hour
+https://developer.here.com/: location apis and sdks
+https://walls.io/: aggregate social media content to display it or consumre it via api (display, api)
