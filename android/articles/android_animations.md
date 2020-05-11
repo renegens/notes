@@ -14,3 +14,5 @@
 [https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
 ### AnimatedIcons: Strikethru
 [https://blog.stylingandroid.com/animatedicons-strikethru/](https://blog.stylingandroid.com/animatedicons-strikethru/)
+### Android MotionLayout: Creating the Twitter splash screen in the simplest way possible
+[https://proandroiddev.com/android-motionlayout-twitter-splash-screen-b5755ed56ee8](https://proandroiddev.com/android-motionlayout-twitter-splash-screen-b5755ed56ee8)

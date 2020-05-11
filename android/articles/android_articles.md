@@ -50,3 +50,5 @@
 [https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
 ### Connectivity State on Android 10 and Above
 [https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
+### Restore RecyclerView scroll position
+[https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
