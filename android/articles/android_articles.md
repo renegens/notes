@@ -8,6 +8,8 @@
 [https://monzo.com/blog/2019/02/11/monzo-chat-on-android/?fbclid=IwAR2dYj6zV9p7dUE8rA5mrVVAXiSCnYxOM3huP187dUsRoph2qfEOOl1pHHw](https://monzo.com/blog/2019/02/11/monzo-chat-on-android/?fbclid=IwAR2dYj6zV9p7dUE8rA5mrVVAXiSCnYxOM3huP187dUsRoph2qfEOOl1pHHw)
 ### Multiple Selection
 [https://proandroiddev.com/a-guide-to-recyclerview-selection-3ed9f2381504](https://proandroiddev.com/a-guide-to-recyclerview-selection-3ed9f2381504)
+### Save/ Get local files and images
+[https://developer.android.com/training/data-storage/use-cases](https://developer.android.com/training/data-storage/use-cases)
 ### Update progress bar inside recycler view
 [https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
 ### Feature flags - A successful architecture

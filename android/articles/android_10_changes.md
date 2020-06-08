@@ -38,6 +38,8 @@ window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
 ```xml
 <item name="android:windowLightStatusBar">true</item>
 ```
+### Simple Dark Theme
+[https://proandroiddev.com/dark-mode-on-android-app-with-kotlin-dc759fc5f0e1](https://proandroiddev.com/dark-mode-on-android-app-with-kotlin-dc759fc5f0e1)
 
 ### Navigation
 [https://medium.com/androiddevelopers/gesture-navigation-going-edge-to-edge-812f62e4e83e](https://medium.com/androiddevelopers/gesture-navigation-going-edge-to-edge-812f62e4e83e)
