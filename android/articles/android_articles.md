@@ -54,3 +54,7 @@
 [https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
 ### Restore RecyclerView scroll position
 [https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+### Jetpack Saved State for ViewModel: Getting Started
+[https://www.raywenderlich.com/5212210-jetpack-saved-state-for-viewmodel-getting-started](https://www.raywenderlich.com/5212210-jetpack-saved-state-for-viewmodel-getting-started)
+### Custom view from scratch. Part I.
+[https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903](https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903)
