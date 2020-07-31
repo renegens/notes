@@ -58,3 +58,5 @@
 [https://www.raywenderlich.com/5212210-jetpack-saved-state-for-viewmodel-getting-started](https://www.raywenderlich.com/5212210-jetpack-saved-state-for-viewmodel-getting-started)
 ### Custom view from scratch. Part I.
 [https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903](https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903)
+### Use WorkManager for immediate background execution
+[https://medium.com/androiddevelopers/use-workmanager-for-immediate-background-execution-a57db502603d](https://medium.com/androiddevelopers/use-workmanager-for-immediate-background-execution-a57db502603d)
