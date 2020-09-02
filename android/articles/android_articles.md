@@ -1,3 +1,5 @@
+### Dark Theme with MDC
+[https://medium.com/androiddevelopers/dark-theme-with-mdc-4c6fc357d956](https://medium.com/androiddevelopers/dark-theme-with-mdc-4c6fc357d956)
 ### Back Pressed in fragments
 [https://stackoverflow.com/questions/5448653/how-to-implement-onbackpressed-in-fragments](https://stackoverflow.com/questions/5448653/how-to-implement-onbackpressed-in-fragments)
 ### Encryption
