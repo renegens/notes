@@ -1,3 +1,5 @@
+### Biometrics in Android
+[https://proandroiddev.com/biometrics-in-android-50424de8d0e](https://proandroiddev.com/biometrics-in-android-50424de8d0e)
 ### 20 Android Dev Tools You’ve Probably Never Heard Of
 [https://medium.com/better-programming/20-android-dev-tools-youve-probably-never-heard-of-c6cc08b4e543](https://medium.com/better-programming/20-android-dev-tools-youve-probably-never-heard-of-c6cc08b4e543)
 ### Dark Theme with MDC
